@@ -41,7 +41,7 @@ section .textBox {
     font-size: 12em;
     line-height: 1em;
     color: var(--font-color);
-    cursor:  ;
+    cursor: pointer;
 }
 
 .skew1 h2 {
